@@ -1,0 +1,10 @@
+📁 Application Structure:
+
+.
+├── hello.cpp
+├── infix_postfix_lab.cpp
+├── LICENSE
+├── README.md
+├── 📂 stack_queue
+│   ├── stack_queue_a1.cpp
+│   ├── stack_queue_practice.cpp
