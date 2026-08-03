@@ -4,9 +4,9 @@
 
 using namespace std;
 
-// Code by Ettisaf Rup
-
+// CODE BY ETTISAF RUP
 // Main Stack
+
 char arr[100] = {};
 int stp = -1;
 
